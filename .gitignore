@@ -1,4 +1,5 @@
-debug*
+dbug*
+datasets/
 checkpoints/
 results/
 build/
