@@ -1,6 +1,9 @@
 # pix2pixHD-MED
 This repository contains a modified version of the original pix2pixHD proposed by Wang et al. found at https://github.com/NVIDIA/pix2pixHD. The changes include a 16bit end to end imag epipeline for medical image synthetization and other monor changes. The changes are described in detail in the master thesis of Maximilian Körner.
 
+## Examples of synthesized liver CT images vs originals from the LITS dataset:
+<img src='imgs/synthesized_images.jpg'>
+
 Below is the original description of the project:
 
 
